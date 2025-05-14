@@ -1,0 +1,42 @@
+# Blender 4.3.2 MTL File: 'FerrisWheel.blend'
+# www.blender.org
+
+newmtl Material.002
+Ns 250.000000
+Ka 0.441667 0.441667 0.441667
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 1
+map_Kd normal.png
+map_d normal.png
+
+newmtl Material.003
+Ns 250.000000
+Ka 0.555000 0.555000 0.555000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 3
+map_Kd grey.png
+map_d grey.png
+
+newmtl Material.004
+Ns 250.000000
+Ka 0.591667 0.591667 0.591667
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 3
+map_Kd darkgreen.png
+map_d darkgreen.png
+
+newmtl Material.006
+Ns 250.000000
+Ka 0.816667 0.816667 0.816667
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 3
+map_Kd black.png
+map_d black.png

@@ -1,0 +1,42 @@
+# Blender 4.3.2 MTL File: 'FerrisWheel.blend'
+# www.blender.org
+
+newmtl branch_color.002
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.100000 0.100000 0.100000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd green3.png
+map_d green3.png
+
+newmtl branch_color.004
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.100000 0.100000 0.100000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd green3.png
+map_d green3.png
+
+newmtl branch_color.005
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.100000 0.100000 0.100000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd green3.png
+map_d green3.png
+
+newmtl trunk_color.001
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.100000 0.100000 0.100000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd treebrown2.png
+map_d treebrown2.png
